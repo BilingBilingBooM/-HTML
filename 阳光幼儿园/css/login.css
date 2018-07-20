@@ -1,0 +1,26 @@
+
+html{
+	   background: #fff;
+}
+.uk-login {
+	top: 15%;
+	left: 0;
+	right: 0;
+	position: absolute;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    width: 1170px;
+    height: 550px;
+
+}
+.form-login{
+	width: 400px;
+}
+.ds-ft{
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	
+}
